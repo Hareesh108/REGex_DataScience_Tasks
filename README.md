@@ -1,3 +1,3 @@
-# REGexpython
+# REGex_DataScience_Tasks
 
-In this files i have completed basic python related work.
+All DataScience internship related work i have uploaded here!
